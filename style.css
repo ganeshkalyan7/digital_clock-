@@ -1,0 +1,25 @@
+#clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:chartreuse;
+    margin-top: 100px;
+    width: auto;
+    height: 200px;
+    font-size: 70px;
+    background-color: black;
+    border-style: double;
+}
+body{
+    background-color:coral;
+}
+#clock:hover{
+    background-color:gray;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+}
